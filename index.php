@@ -15,3 +15,7 @@
 // git add --all
 
 // git commit -m "init git"
+
+// git reset index.php // l'inverse de git add
+
+// git rm --cached *  // cette commande permet de sortir tous les fichiers du staging area (annule le add) 
