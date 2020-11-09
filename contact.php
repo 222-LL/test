@@ -1,3 +1,7 @@
 <?php
 
-echo 'page contact'; ?>
+echo 'page contact';
+
+echo 'qfezfaafaefa';
+
+?>
